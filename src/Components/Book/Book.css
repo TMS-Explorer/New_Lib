@@ -1,0 +1,40 @@
+.card-container {
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    margin: 50px 25px 0px 25px;
+    width: 300px;
+    height: 350px;
+    perspective: 1000px;
+    align-items: center;
+  }
+  
+  .card-body {
+    width: 300px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    box-shadow: 0 10px 35px rgba(50, 50, 93, 0.1), 0 2px 15px rgba(0, 0, 0, 0.07);
+  }
+  .Center-align{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:center;
+  }
+  .Center-align-pic{
+    display: flex;
+    justify-content: center;
+  }
+  .text-center-align{
+    text-align: center;
+  }
+  
+  .book-image {
+    width:200px !important;
+    height:250px !important;
+    margin: 0;
+    padding: 0;
+  }

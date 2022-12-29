@@ -1,0 +1,17 @@
+.root{
+    display: flex;
+    flex-grow: 1;
+    margin:20px 20px 20px 20px; 
+  }
+  .List{
+    display:flex;
+    flex-wrap: wrap;
+  }
+  .no-matching{
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+    font-style: oblique;
+    color:brown
+  }
+
