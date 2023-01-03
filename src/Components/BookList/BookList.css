@@ -6,6 +6,7 @@
   .List{
     display:flex;
     flex-wrap: wrap;
+    justify-content: center;
   }
   .no-matching{
     text-align: center;

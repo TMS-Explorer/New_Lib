@@ -23,3 +23,6 @@
   display: flex;
   flex-wrap: wrap;
 }
+.container{
+  max-width:100% !important
+}
