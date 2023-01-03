@@ -3,6 +3,8 @@
     flex-direction: row;
     padding: 25px;
     margin-top: 40px;
+    margin-left:23px;
+    max-width:96%;
     box-shadow: 0 10px 35px rgba(117, 117, 221, 0.795), 0 2px 15px rgba(119, 190, 218, 0.822);
 }
 .book-image{
